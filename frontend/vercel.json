@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://acorn-badminton-platform.onrender.com/api/$1"
+    }
+  ]
+}
